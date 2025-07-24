@@ -44,7 +44,7 @@ local function checkKey(inputKey)
 			localPlayer:Kick("🔐 Key này không thuộc về tài khoản " .. actualUsername)
 		end
 	else
-		localPlayer:Kick("❌ Key không hợp lệ / Mua Key Ib Rez")
+		localPlayer:Kick("❌ Key không hợp lệ / Mua Key IB Rez")
 	end
 
 	return false
